@@ -111,6 +111,6 @@ if __name__ == '__main__':
     # print score_dict['32']
     train_data = get_train_data('../data/ratings.csv')
     # print train_data[:20]
-    print len(train_data)
+    print(len(train_data))
 
 
